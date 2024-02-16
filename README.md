@@ -16,7 +16,8 @@
   <img src="https://github.com/StanislavKropotin/images/blob/main/SQLAlchimy.PNG?raw=true" height="85" width="356"/>
 </div>
 
-
+<div id="header" align="center">
+<p dir="auto"><em><strong>Databases:</strong></em></p></div>
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
