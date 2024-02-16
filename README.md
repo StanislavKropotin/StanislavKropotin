@@ -12,7 +12,7 @@
   <img src="https://github.com/StanislavKropotin/images/blob/main/django%20rest.PNG?raw=true" height="165.5" width="300"/>
   <img src="https://github.com/StanislavKropotin/images/blob/main/celery.PNG?raw=true" height="165.5" width="250"/>
   <img src="https://github.com/StanislavKropotin/images/blob/main/SQLAlchimy.PNG?raw=true" height="165.5" width="300"/>
-  <img src="https://github.com/StanislavKropotin/images/blob/main/scrapy.PNG?raw=true" height="165.5" width="350"/>
+  <img src="https://github.com/StanislavKropotin/images/blob/main/scrapy.PNG?raw=true" height="200" width="300"/>
 </div>
   
 <p style="text-align: right;">&nbsp;</p>
