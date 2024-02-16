@@ -26,6 +26,9 @@
   <img src="https://github.com/StanislavKropotin/images/blob/main/redis.PNG?raw=true" height="165.5" width="300"/>
 </div>
 
+<p style="text-align: right;">&nbsp;</p>
+
+
 
 
 - 👀 I’m interested in ...
