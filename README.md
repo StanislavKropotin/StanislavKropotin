@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Stanislav Kropotin and I'm a Backend Developer.
 #
 - Technology stack !
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://github.com/inkviz96/inkviz96/raw/main/python.jpg?raw=true" width="100"/>
 </div>
 
