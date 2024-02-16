@@ -1,8 +1,8 @@
 <div id="header" align="center">
 <p><em><strong>Hi👋 I'm Stanislav Kropotin and I'm a Backend Developer</strong></em></p></div>
 <hr>
-  
-<p><span style="text-decoration: underline;"><em><strong>Technology stack:</strong></em></span></p>
+<div id="header" align="center">
+<p><span style="text-decoration: underline;"><em><strong>Technology stack:</strong></em></span></p></div>
 <div id="header" align="right">
 <p style="text-align: right;"><em><strong>Databases</strong></em></p></div>
 
