@@ -7,7 +7,7 @@
 <p dir="auto"><em><strong>Backend:</strong></em></p></div>
 <div id="header" align="center">
   <img src="https://github.com/StanislavKropotin/images/blob/main/python.PNG?raw=true" width="250"/>
-  <img src="https://github.com/StanislavKropotin/images/blob/main/fastapi.PNG?raw=true" height="167" width="250"/>
+  <img src="https://github.com/StanislavKropotin/images/blob/main/fastapi.PNG?raw=true" height="166" width="250"/>
 </div>
 <div id="header" align="center">
   <img src="https://github.com/StanislavKropotin/images/blob/main/django.PNG?raw=true" width="150"/>
