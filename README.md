@@ -1,6 +1,6 @@
-#- 👋 Hi, I’m Stanislav Kropotin and I'm a Backend Developer.
+👋 # Hi, I’m Stanislav Kropotin and I'm a Backend Developer.
   
-# Technology stack:
+# Technology stack: 
   Backend:
 <div id="header" align="left">
   <img src="https://github.com/inkviz96/inkviz96/raw/main/python.jpg?raw=true" width="100"/>
