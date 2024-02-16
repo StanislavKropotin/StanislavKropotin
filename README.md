@@ -1,4 +1,4 @@
-Hi👋 I’m Stanislav Kropotin and I'm a Backend Developer.
+<h1><p dir="auto" style="text-align: center;"><em>Hi👋 I&rsquo;m Stanislav Kropotin and I'm a Backend Developer.</em></p><h1>
   
 # Technology stack: 
   <p dir="auto"><em><strong>Backend:</strong></em></p>
