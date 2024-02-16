@@ -28,6 +28,17 @@
 
 <p style="text-align: right;">&nbsp;</p>
 
+<div id="header" align="center">
+<p dir="auto"><em><strong>Frontend development</strong></em></p></div>
+<div id="header" align="center">
+  <img src="https://github.com/StanislavKropotin/images/blob/main/posqre.PNG?raw=true" height="165.5 width="250"/>
+  <img src="https://github.com/StanislavKropotin/images/blob/main/pgadmin.PNG?raw=true" height="165.5" width="250"/>
+  <img src="https://github.com/StanislavKropotin/images/blob/main/sql.PNG?raw=true" height="165.5" width="250"/>
+  <img src="https://github.com/StanislavKropotin/images/blob/main/sqlite.PNG?raw=true" height="165.5" width="250"/>
+  <img src="https://github.com/StanislavKropotin/images/blob/main/Mysql.PNG?raw=true" height="165.5" width="300"/>
+  <img src="https://github.com/StanislavKropotin/images/blob/main/redis.PNG?raw=true" height="165.5" width="300"/>
+</div>
+
 
 
 
