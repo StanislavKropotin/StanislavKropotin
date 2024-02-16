@@ -1,4 +1,4 @@
-👋 # Hi, I’m Stanislav Kropotin and I'm a Backend Developer.
+Hi👋 I’m Stanislav Kropotin and I'm a Backend Developer.
   
 # Technology stack: 
   Backend:
