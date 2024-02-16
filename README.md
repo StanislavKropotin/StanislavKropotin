@@ -8,7 +8,7 @@ Hi👋 I’m Stanislav Kropotin and I'm a Backend Developer.
 </div>
 <div id="header" align="left">
   <img src="https://github.com/StanislavKropotin/images/blob/main/django.PNG?raw=true" width="150"/>
-  <img src="https://github.com/StanislavKropotin/images/blob/main/celery.PNG?raw=true" width="225"/>
+  <img src="https://github.com/StanislavKropotin/images/blob/main/celery.PNG?raw=true" length="100" width="225"/>
 </div>
 
 
