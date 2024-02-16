@@ -9,8 +9,8 @@
   <img src="https://github.com/StanislavKropotin/images/blob/main/python.PNG?raw=true" width="250"/>
   <img src="https://github.com/StanislavKropotin/images/blob/main/fastapi.PNG?raw=true" height="165.5" width="250"/>
   <img src="https://github.com/StanislavKropotin/images/blob/main/django.PNG?raw=true" height="165.5" width="250"/>
-  <img src="https://github.com/StanislavKropotin/images/blob/main/celery.PNG?raw=true" height="150" width="250"/>
-  <img src="https://github.com/StanislavKropotin/images/blob/main/SQLAlchimy.PNG?raw=true" height="85" width="356"/>
+  <img src="https://github.com/StanislavKropotin/images/blob/main/celery.PNG?raw=true" height="165.5" width="250"/>
+  <img src="https://github.com/StanislavKropotin/images/blob/main/SQLAlchimy.PNG?raw=true" height="165.5" width="356"/>
 </div>
 
 
