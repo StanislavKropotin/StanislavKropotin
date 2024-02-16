@@ -23,6 +23,7 @@
   <img src="https://github.com/StanislavKropotin/images/blob/main/sql.PNG?raw=true" height="165.5" width="250"/>
   <img src="https://github.com/StanislavKropotin/images/blob/main/sqlite.PNG?raw=true" height="165.5" width="250"/>
   <img src="https://github.com/StanislavKropotin/images/blob/main/Mysql.PNG?raw=true" height="165.5" width="300"/>
+  <img src="https://github.com/StanislavKropotin/images/blob/main/redis.PNG?raw=true" height="165.5" width="300"/>
 </div>
 
 
