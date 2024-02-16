@@ -3,7 +3,8 @@
 <hr>
   
 <p><span style="text-decoration: underline;"><em><strong>Technology stack:</strong></em></span></p>
-  <p dir="auto"><em><strong>Backend:</strong></em></p><p dir="auto"><em><strong>Databases:</strong></em></p></div>
+  <p dir="auto"><em><strong>Backend:</strong></em></p>
+  <p style="text-align: right;"><em><strong>Databases</strong></em></p>
   <div id="header" align="left">
   <div id="header" align="center">
   <img src="https://github.com/StanislavKropotin/images/blob/main/python.PNG?raw=true" width="150"/>
