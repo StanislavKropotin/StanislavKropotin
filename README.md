@@ -7,7 +7,7 @@ Hi👋 I’m Stanislav Kropotin and I'm a Backend Developer.
   <img src="https://github.com/StanislavKropotin/images/blob/main/fastapi.PNG?raw=true" width="200"/>
 </div>
 <div id="header" align="left">
-  <img src="https://github.com/StanislavKropotin/images/blob/main/django.PNG?raw=true" width="100"/>
+  <img src="https://github.com/StanislavKropotin/images/blob/main/django.PNG?raw=true" width="150"/>
 </div>
 
 
