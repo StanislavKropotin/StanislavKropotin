@@ -2,11 +2,11 @@ Hi👋 I’m Stanislav Kropotin and I'm a Backend Developer.
   
 # Technology stack: 
   Backend:
-  <div id="header" align="center">
+  <div id="header" align="left">
   <img src="https://github.com/StanislavKropotin/images/blob/main/python.PNG?raw=true" width="100"/>
 </div>
 <div id="header" align="left">
-  <img src="https://github.com/StanislavKropotin/images/blob/main/django.PNG?raw=true width="100"/>
+  <img src="https://github.com/StanislavKropotin/images/blob/main/django.PNG?raw=true" width="100"/>
 </div>
 
 
