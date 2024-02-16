@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<h1><p><em><strong>Hi👋 I'm Stanislav Kropotin and I'm a Backend Developer</strong></em></p><h1></div>
+<h3><p><em><strong>Hi👋 I'm Stanislav Kropotin and I'm a Backend Developer</strong></em></p><h3></div>
 <hr>
 <div id="header" align="center">
 <p><span style="text-decoration: underline;"><em><strong>Technology stack:</strong></em></span></p></div>
