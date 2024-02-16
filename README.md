@@ -3,8 +3,13 @@ Hi👋 I’m Stanislav Kropotin and I'm a Backend Developer.
 # Technology stack: 
   Backend:
 <div id="header" align="left">
-  <img src="[https://github.com/StanislavKropotin/images/blob/main/python.PNG?raw=true](https://github.com/StanislavKropotin/images/blob/main/django.PNG?raw=true)" width="300"/>
+  <img src="https://github.com/StanislavKropotin/images/blob/main/python.PNG?raw=truewidth="300"/>
 </div>
+
+<div id="header" align="left">
+  <img src="https://github.com/StanislavKropotin/images/blob/main/python.PNG?raw=truewidth="300"/>
+</div>
+
 
 
 - 👀 I’m interested in ...
