@@ -1,4 +1,4 @@
-<h3>Hi👋 I'm Stanislav Kropotin and I'm a Backend Developer<h3>
+<p style="text-align: center;"><em><strong>Hi👋 I'm Stanislav Kropotin and I'm a Backend Developer</strong></em></p>
 <hr>
   
 <p><span style="text-decoration: underline;"><em><strong>Technology stack:</strong></em></span></p>
