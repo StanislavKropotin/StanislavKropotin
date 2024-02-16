@@ -3,8 +3,8 @@
 <hr>
 <div id="header" align="center">
 <p><span style="text-decoration: underline;"><em><strong>Technology stack:</strong></em></span></p></div>
-
-<p dir="auto"><em><strong>Backend:</strong></em></p>
+<div id="header" align="center">
+<p dir="auto"><em><strong>Backend:</strong></em></p></div>
 <div id="header" align="left">
   <img src="https://github.com/StanislavKropotin/images/blob/main/python.PNG?raw=true" width="150"/>
   <img src="https://github.com/StanislavKropotin/images/blob/main/fastapi.PNG?raw=true" width="200"/>
