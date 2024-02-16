@@ -1,6 +1,8 @@
-- 👋 Hi, I’m StanislavKropotin and I'm a Backend Developer.
+- 👋 Hi, I’m Stanislav Kropotin and I'm a Backend Developer.
 #
-- Technology stack 
+- Technology stack !
+- [python](https://github.com/StanislavKropotin/StanislavKropotin/assets/134538417/6e209ee0-76a8-4af2-8a32-c1c40e238161)
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
