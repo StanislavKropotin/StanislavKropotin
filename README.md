@@ -1,6 +1,7 @@
 <h3><p dir="auto" style="text-align: center;"><em>Hi👋 I&rsquo;m Stanislav Kropotin and I'm a Backend Developer.</em></p><h3>
   
 <p><span style="text-decoration: underline;"><em><strong>Technology stack:</strong></em></span></p>
+<hr>
   <p dir="auto"><em><strong>Backend:</strong></em></p>
   <div id="header" align="left">
   <img src="https://github.com/StanislavKropotin/images/blob/main/python.PNG?raw=true" width="150"/>
