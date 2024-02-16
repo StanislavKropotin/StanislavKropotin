@@ -1,4 +1,4 @@
-<p dir="auto" style="text-align: center;"><em>Hi👋 I&rsquo;m Stanislav Kropotin and I'm a Backend Developer.</em></p>
+<p> dir="auto" style="text-align: center;"><em>Hi👋 I&rsquo;m Stanislav Kropotin and I'm a Backend Developer.</em></p>
 <hr>
   
 <p><span style="text-decoration: underline;"><em><strong>Technology stack:</strong></em></span></p>
