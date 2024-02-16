@@ -19,7 +19,7 @@
 <p dir="auto"><em><strong>Databases:</strong></em></p></div>
 <div id="header" align="center">
   <img src="https://github.com/StanislavKropotin/images/blob/main/posqre.PNG?raw=true" height="165.5 width="250"/>
-  <img src="https://github.com/StanislavKropotin/images/blob/main/fastapi.PNG?raw=true" height="165.5" width="250"/>
+  <img src="https://github.com/StanislavKropotin/images/blob/main/pgadmin.PNG?raw=true" height="165.5" width="250"/>
   <img src="https://github.com/StanislavKropotin/images/blob/main/django.PNG?raw=true" height="165.5" width="250"/>
   <img src="https://github.com/StanislavKropotin/images/blob/main/celery.PNG?raw=true" height="165.5" width="250"/>
   <img src="https://github.com/StanislavKropotin/images/blob/main/SQLAlchimy.PNG?raw=true" height="165.5" width="300"/>
