@@ -14,8 +14,6 @@
 </div>
   
 <p style="text-align: right;">&nbsp;</p>
-<p style="text-align: right;">&nbsp;</p>
-<p style="text-align: right;">&nbsp;</p>
 
 <div id="header" align="center">
 <p dir="auto"><em><strong>Databases:</strong></em></p></div>
