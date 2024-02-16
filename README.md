@@ -2,7 +2,7 @@
 #
 - Technology stack !
 <div id="header" align="center">
-  <img src="https://www.python.org/" width="100"/>
+  <img src="https://github.com/inkviz96/inkviz96/raw/main/python.jpg?raw=true" width="100"/>
 </div>
 
 
