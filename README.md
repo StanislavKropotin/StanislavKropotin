@@ -37,6 +37,15 @@
   <img src="https://github.com/StanislavKropotin/images/blob/main/react.PNG?raw=true" height="165.5" width="250"/>
 </div>
 
+<p style="text-align: right;">&nbsp;</p>
+
+<div id="header" align="center">
+<p dir="auto"><em><strong>Tools:</strong></em></p></div>
+<div id="header" align="center">
+  <img src="https://github.com/StanislavKropotin/images/blob/main/github.PNG?raw=true" height="165.5 width="250"/>
+  <img src="https://github.com/StanislavKropotin/images/blob/main/git.PNG?raw=true" height="165.5" width="250"/>
+</div>
+
 
 
 
