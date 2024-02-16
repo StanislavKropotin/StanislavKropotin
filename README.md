@@ -4,6 +4,8 @@
   
 <p><span style="text-decoration: underline;"><em><strong>Technology stack:</strong></em></span></p>
   <p dir="auto"><em><strong>Backend:</strong></em></p>
+  <div id="header" align="center">
+  <p dir="auto"><em><strong>Databases:</strong></em></p></div>
   <div id="header" align="left">
   <img src="https://github.com/StanislavKropotin/images/blob/main/python.PNG?raw=true" width="150"/>
   <img src="https://github.com/StanislavKropotin/images/blob/main/fastapi.PNG?raw=true" width="200"/>
@@ -16,8 +18,7 @@
   <img src="https://github.com/StanislavKropotin/images/blob/main/SQLAlchimy.PNG?raw=true" height="85" width="356"/>
 </div>
 
-<div id="header" align="center">
-<p dir="auto"><em><strong>Databases:</strong></em></p></div>
+
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
