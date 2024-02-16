@@ -1,7 +1,7 @@
 Hi👋 I’m Stanislav Kropotin and I'm a Backend Developer.
   
 # Technology stack: 
-  Backend:
+  <p dir="auto"><em><strong>Backend:</strong></em></p>
   <div id="header" align="left">
   <img src="https://github.com/StanislavKropotin/images/blob/main/python.PNG?raw=true" width="150"/>
   <img src="https://github.com/StanislavKropotin/images/blob/main/fastapi.PNG?raw=true" width="200"/>
